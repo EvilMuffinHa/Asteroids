@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Helium-Engine">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Helium-Engine.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Helium-Engine.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Helium-Engine.jar!/" />
+    </SOURCES>
+  </library>
+</component>
